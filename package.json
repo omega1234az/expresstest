@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo \"No build step\""
+  },
   "dependencies": {
     "express": "^5.2.1"
   }
